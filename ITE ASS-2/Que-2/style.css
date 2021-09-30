@@ -1,0 +1,59 @@
+.boxed{
+  border: 5px solid purple;
+}
+.right{
+  float: right;
+  border: 2px solid red;
+  background: orange;
+  color: red;
+  border-radius: 40px;
+  height: 50px;
+  outline: none;
+
+}
+button a{
+  color: red !important;
+}
+.left{
+  text-align: left;
+}
+.btnn{
+  border:100px;
+  color:orange;
+  text-align:center;
+  margin:10px 5px;
+}
+*{
+  font-family: 'Sansita Swashed', cursive;
+}
+body {
+
+  
+  background-attachment:fixed;
+  background-repeat: no-repeat;
+ background-size: 100% 100%;
+}
+
+
+.box{
+  border: 5px solid black;
+  border-radius: 40px;
+  background-color: white;
+  opacity: 0.8;
+}
+
+h1{
+  text-shadow: 0 0 30px white,
+               0 0 40px white;
+}
+
+area{
+  outline: none !important;
+}
+
+img{
+  border-radius: 50px;
+  box-shadow: 0 0 40px red,
+              0 0 50px red;
+
+}
